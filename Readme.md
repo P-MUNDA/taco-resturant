@@ -81,7 +81,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Design influenced by modern web practices
 - Built as part of the AppBrewery Web Development course
 
-## 📮 Contact
-
-Your Name - [Your Email]
-Project Link: [https://github.com/yourusername/taco-recipe]
